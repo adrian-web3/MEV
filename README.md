@@ -1,7 +1,7 @@
 # MEV
-Maximal Extractable Value ressources I've collected through my research.
+Ressources I've collected through my research.
 
-
+If you don't know what it is -> https://www.alchemy.com/overviews/what-is-mev
 
 
 <b>The 0 to 1 Guide for MEV</b> <br>
